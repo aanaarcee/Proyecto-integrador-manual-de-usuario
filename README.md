@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 # Manual de Usuario — Sistema de Gestión de Préstamos de Pañol Escolar
 
 Trabajo Integrador Individual · **Modelos y Sistemas** · 7.º año · Escuela Técnica
 
-**Alumno/a:** _(completar)_
-**Profesor/a:** _(completar)_
-**Fecha de entrega:** _(completar)_
+**Alumno:** Arce Ana Mia
+**Profesor:** Gian Franco De Naro
 
 ## Descripción
 
